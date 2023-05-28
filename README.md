@@ -1,2 +1,2 @@
 # AimTraining
- The first project for the portfolio.
+YouTube demonstration: https://youtu.be/eIZ8cECi1vU
